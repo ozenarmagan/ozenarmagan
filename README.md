@@ -45,7 +45,7 @@ Bu teknolojilerle projeler geliştiriyor ve kendimi sürekli güncel tutuyorum:
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Armağan! 👋
 
 <p align="left">
   <a href="https://armaganozen.com" target="_blank">
