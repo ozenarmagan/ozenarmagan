@@ -1,99 +1,94 @@
-# Merhaba, ben Armağan! 👋
+<!-- PREMIUM GITHUB README FOR ARMAĞAN ÖZEN -->
 
-<p align="left">
-  <a href="https://armaganozen.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Web%20Sitem-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/armaganozen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profilim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hi@armaganozen.com">
-    <img src="https://img.shields.io/badge/Email-Bana%20Ulaşın-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-### Hakkımda 👨‍💻
-
-Perakende yöneticiliğinden gelen analitik problem çözme yeteneğimi, yazılım geliştirme tutkumla birleştiren bir geliştiriciyim. Teknolojiye olan merakım, karmaşık Excel formüllerini çözerek başladı ve beni önce WordPress ile kendi işimi kurmaya, ardından da **React** ve **React Native** ile modern uygulamalar geliştirmeye yöneltti.
-
-Şu anki en büyük heyecanım, **Cursor, Windsorf ve Lovable** gibi **yapay zeka destekli araçları** kullanarak kodlama sürecini bir sonraki seviyeye taşımak. Benim için AI, sadece bir araç değil, daha verimli ve yaratıcı çözümler üretmemi sağlayan bir partner.
-
-**Hayat felsefem: Her gün yeni bir şey öğrenmek.**
-
----
-
-### 🚀 Teknolojiler & Araçlar
-
-Bu teknolojilerle projeler geliştiriyor ve kendimi sürekli güncel tutuyorum:
-
-| Alan                | Teknolojiler                                                                                              |
-| ------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Frontend** | `React` `React Native` `JavaScript (ES6+)` `HTML5` `CSS3`                                                 |
-| **AI Destekli Geliştirme** | `Cursor` `Windsorf` `Lovable` `ChatGPT API`                                                              |
-| **Aşina Olduklarım** | `Node.js` `Firebase` `WordPress` `Git`                                                                    |
-
----
-
-### 🌱 Şu Anda Odaklandıklarım
-
--   Yapay zeka destekli kodlama araçlarıyla geliştirme verimliliğimi en üst düzeye çıkarmak.
--   React Native ile platformlar arası (cross-platform) mobil uygulama geliştirme konusundaki uzmanlığımı derinleştirmek.
--   Web ve mobil uygulamalara entegre edilebilecek yeni yapay zeka API'lerini ve modellerini araştırmak.
-
-----------------------------------------------------------------------------------------------------------------------------
-
-
-# Hi, I'm Armağan! 👋
-
-<p align="left">
-  <a href="https://armaganozen.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-My%20Website-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/armaganozen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hi@aramganozen.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-### About Me 👨‍💻
-
-I'm a developer who combines a passion for software development with the analytical problem-solving skills gained from my background in retail management. My curiosity for technology began with deconstructing complex Excel formulas, which led me to build my own business with WordPress and eventually to developing modern applications with **React** and **React Native**.
-
-My biggest excitement right now is taking the coding process to the next level using **AI-powered tools** like **Cursor, Windsorf, and Lovable**. For me, AI is not just a tool, but a partner that enables me to create more efficient and creative solutions.
-
-**My life philosophy: Learn something new every day.**
-
----
-
-### 🚀 Tech Stack & Tools
-
-I build projects and keep myself updated with these technologies:
-
-| Domain                  | Technologies                                                                                             |
-| ----------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Frontend** | `React` `React Native` `JavaScript (ES6+)` `HTML5` `CSS3`                                                |
-| **AI-Powered Development** | `Cursor` `Windsorf` `Lovable` `ChatGPT API`                                                             |
-| **Familiar With** | `Node.js` `Firebase` `WordPress` `Git`                                                                   |
-
----
-
-### 🌱 What I'm Currently Focusing On
-
--   Maximizing my development efficiency with AI-assisted coding tools.
--   Deepening my expertise in cross-platform mobile app development with React Native.
--   Exploring new AI APIs and models that can be integrated into web and mobile applications.
-
----
-
-### 📊 My GitHub Stats
+<h1 align="center">🚀 Armağan Özen<br/>Founder • Full-Stack Developer • Automation Architect</h1>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ozenarmagan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozenarmagan&layout=compact&langs_count=7&theme=dracula"/>
+  <strong>🇹🇷 Modern SaaS ürünleri tasarlayan, otomasyon odaklı çözümler geliştiren yazılım geliştiricisi.</strong><br/>
+  <strong>🇬🇧 A software engineer building modern SaaS products and automation-driven solutions.</strong>
 </p>
+
+---
+
+## 👋 Hakkımda • About Me
+
+### 🇹🇷 Full-stack geliştirme, yapay zeka destekli otomasyon ve ölçeklenebilir SaaS platformları üzerine çalışıyorum.  
+### 🇬🇧 I focus on full-stack development, AI-powered automation, and scalable SaaS platforms.
+
+### 🇹🇷 React, Next.js, React Native ve Tailwind ile hızlı ve modern arayüzler geliştiriyorum.  
+### 🇬🇧 I build fast, modern interfaces using React, Next.js, React Native, and Tailwind.
+
+### 🇹🇷 Supabase, Firebase, MySQL ve PostgreSQL ile sağlam backend mimarileri tasarlıyorum.  
+### 🇬🇧 I architect reliable backend systems with Supabase, Firebase, MySQL, and PostgreSQL.
+
+### 🇹🇷 n8n, Cloudflare, Docker ve Coolify ile uçtan uca otomasyon altyapıları kuruyorum.  
+### 🇬🇧 I create end-to-end automation infrastructure using n8n, Cloudflare, Docker, and Coolify.
+
+### 🇹🇷 Kurucusu olduğum **HNG Bilişim** ile iş dünyasının gerçek problemlerine çözüm üreten SaaS ekosistemleri geliştiriyorum.  
+### 🇬🇧 As the founder of **HNG Bilişim**, I build SaaS ecosystems solving real business problems.
+
+---
+
+## 🧠 Odak Alanlarım • Focus Areas
+
+- 🇹🇷 Çok kiracılı SaaS sistemleri  
+  🇬🇧 Multi-tenant SaaS architecture
+
+- 🇹🇷 Yapay zeka destekli otomasyon  
+  🇬🇧 AI-driven automations
+
+- 🇹🇷 Randevu ve işletme yönetim platformları  
+  🇬🇧 Booking & business management platforms
+
+- 🇹🇷 QR tabanlı dijital çözümler  
+  🇬🇧 QR-powered digital solutions
+
+- 🇹🇷 Mikro servis & modern web altyapıları  
+  🇬🇧 Microservices & modern web infrastructure
+
+---
+
+## 🛠️ Teknoloji Yığınım • Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres,nodejs,cloudflare,docker" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,figma,npm,vscode" />
+</p>
+
+---
+
+## 📈 GitHub İstatistikleri • GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ozenarmagan&show_icons=true&theme=highcontrast&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozenarmagan&layout=compact&theme=highcontrast" />
+</p>
+
+---
+
+## 🌐 Bağlantılar • Social Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/armaganozen/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://hngbilisim.com"><img src="https://skillicons.dev/icons?i=wordpress"/></a>
+  <a href="https://github.com/ozenarmagan"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://x.com/ozenarmagan"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+</p>
+
+---
+
+## 🎯 Kapanış • Final Note
+
+### 🇹🇷 Gerçek problemleri çözen minimalist, hızlı ve ölçeklenebilir ürünler üretmeye odaklanıyorum.  
+### 🇬🇧 I focus on building minimal, fast, and scalable products that solve real-world problems.
+
+### 🇹🇷 Yeni iş birlikleri, projeler ve SaaS fikirleri için her zaman açığım.  
+### 🇬🇧 Always open to new collaborations, projects, and SaaS opportunities.
+
+---
+
+<h3 align="center">✨ “Build fast. Automate everything. Scale forever.” ✨</h3>
